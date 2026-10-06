@@ -1,1 +1,2 @@
 Validar y sustentar evidencias de auditoría
+Lectura guía terminal y socialización dependencia de la vista
