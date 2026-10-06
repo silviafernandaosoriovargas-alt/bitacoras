@@ -1,1 +1,2 @@
 Revisión guía CLI, actividad 3.3 manejo de terminal
+Laboratorio CLI navegación y gestión de archivos, Charla DENGUE
