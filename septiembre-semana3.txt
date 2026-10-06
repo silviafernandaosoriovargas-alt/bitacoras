@@ -1,1 +1,2 @@
 Lectura esquema de ramas, configuración Git y comandos iniciales
+Creación de ramas develop, feature/nombre y commits en cada una
