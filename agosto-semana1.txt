@@ -1,1 +1,2 @@
 Implementación de validación para formulario de login en frontend
+Configuración del controlador de autenticación AuthController
