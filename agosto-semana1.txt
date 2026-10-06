@@ -1,2 +1,3 @@
 Implementación de validación para formulario de login en frontend
 Configuración del controlador de autenticación AuthController
+Corrección/Ajuste al registro ID 001: Reemplazo de validación local por externa
