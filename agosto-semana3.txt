@@ -1,2 +1,3 @@
 Revisión guía CLI, actividad 3.3 manejo de terminal
 Laboratorio CLI navegación y gestión de archivos, Charla DENGUE
+Actividad lúdica Kahoot y continuación laboratorio CLI
